@@ -1,3 +1,5 @@
+# https://hub.docker.com/repository/docker/avgordeev72/final-main/general
+
 FROM golang:1.22
 
 WORKDIR /app
